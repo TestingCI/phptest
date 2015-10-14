@@ -19,4 +19,4 @@ script:
   -  ./vendor/bin/phpunit --log-junit shippable/testresults/junit.xml --coverage-xml shippable/codecoverage test/unit/
 
 
-archive: true
+#archive: true
